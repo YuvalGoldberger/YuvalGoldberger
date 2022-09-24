@@ -1,4 +1,5 @@
 <h1 align="center">Hey 👋, I'm Yuval Goldberger</h1>
+
 - 🔭 I’m currently working on **Machine Learning Project for school**
 
 - 🌱 I’m currently learning **Java, Python**
