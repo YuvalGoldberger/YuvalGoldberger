@@ -1,5 +1,5 @@
-- Hey 👋 
-- I’m Yuval Goldberger
+ Hey 👋 I’m Yuval Goldberger
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python, Java
 - 🔧  Working on a Machine Learning Project
